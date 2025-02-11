@@ -28,21 +28,6 @@ I'm Rajvi Madhani, a driven frontend developer currently working in proPecus AG 
 * **Integrated payment gateways, shopping cart, and user authentication** 
 * **Optimized performance and SEO for better search engine rankings** 
 
-**My passion lies in creating innovative and scalable web experiences.** 
-This proficiency allows me to:
-
-* **Build applications with large and dynamic state models**
-* **Efficiently handle asynchronous operations and data fetching**
-* **Ensure predictable and maintainable state management**
-* **Develop applications that are performant and user-friendly**
-
-**I'm confident in my ability to:**
-
-* **Quickly grasp new concepts and technologies**
-* **Work independently and as part of a team**
-* **Deliver high-quality code on time**
-* **Continuously learn and improve my skills**
-
 **Interested in learning more?** Let's connect and discuss how I can contribute to your next project, especially if it involves managing complex state or requires efficient asynchronous operations!
 
 ## 🌐 Socials:
