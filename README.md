@@ -4,24 +4,29 @@
 
 I'm Rajvi Madhani, a driven frontend developer currently working in proPecus AG as Software developer in Berlin, Germany. Adept with both front-end and back-end technologies, I utilize the front side Web Designing and **excel in managing WordPress.**
 
-💼 Key Skills and Experience
-🌟 Front-End Development
-Proficient in HTML5, CSS3, JavaScript, TypeScript, React.js, Bootstrap
-Experienced in developing responsive, user-friendly, and modern UI/UX designs
-🖥️ WordPress Development
-Expertise in Elementor, Plugins, Themes, Dynamic CMS, SEO, WooCommerce
-Custom WordPress theme and plugin development to enhance functionality
-🔗 Full-Stack Expertise
-Skilled in designing, developing, and deploying full-stack web applications
-API integration, state management, and backend logic implementation
-🔒 Authentication & Security
-Building secure authentication systems: Login, Signup, Password Reset, OTP Verification
-Implementing industry-standard security practices
-📌 Project Experience
-E-commerce Website Development
-Designed and developed a fully functional e-commerce platform
-Integrated payment gateways, shopping cart, and user authentication
-Optimized performance and SEO for better search engine rankings
+# 💼 Key Skills and Experience
+
+## 🌟 Front-End Development
+* **Proficient in HTML5, CSS3, JavaScript, TypeScript, React.js, Bootstrap** 
+* **Experienced in developing responsive, user-friendly, and modern UI/UX designs** 
+
+## 🖥️ WordPress Development
+* **Expertise in Elementor, Plugins, Themes, Dynamic CMS, SEO, WooCommerce** 
+* **Custom WordPress theme and plugin development to enhance functionality** 
+
+## 🔗 Full-Stack Expertise
+* **Skilled in designing, developing, and deploying full-stack web applications** 
+* **API integration, state management, and backend logic implementation** 
+
+## 🔒 Authentication & Security
+* **Building secure authentication systems: Login, Signup, Password Reset, OTP Verification** 
+* **Implementing industry-standard security practices** 
+
+## 📌 Project Experience
+* **E-commerce Website Development
+* **Designed and developed a fully functional e-commerce platform** 
+* **Integrated payment gateways, shopping cart, and user authentication** 
+* **Optimized performance and SEO for better search engine rankings** 
 
 **My passion lies in creating innovative and scalable web experiences.** 
 This proficiency allows me to:
@@ -52,9 +57,7 @@ This proficiency allows me to:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajvikmadhani&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github.com/users/rajvikmadhani/achievements/quickdraw)
-![](https://github.com/users/rajvikmadhani/achievements/yolo)
-![](https://github.com/users/rajvikmadhani/achievements/pull-shark)
+![](https://github-profile-trophy.vercel.app/?username=rajvikmadhani&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajvikmadhani&icon=2&color=0)](https://visitcount.itsvg.in)
